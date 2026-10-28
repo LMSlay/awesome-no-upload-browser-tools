@@ -72,6 +72,7 @@ Privacy behavior can change. For highly sensitive material, check the tool's cur
 - [Bryant Smith CSV Deduplicator](https://tools.bryantsmith.com/tools/csv-deduplicator/) - Removes duplicate CSV rows locally with configurable key columns and matching options.
 - [doff](https://doff-franklioxygen.vercel.app/) - Local-first diff workspace for text, images, PDFs, spreadsheets, and folders; file comparison happens in the browser.
 - [Motricialy Remove Hyperlinks from Excel](https://motricialy.com/tools/remove-hyperlinks-from-excel/) - Removes hyperlinks from Excel workbooks in the browser and returns a cleaned file.
+- [TubeText CSV Cell Newline Remover](https://tools.tubetext.dev/csv-remove-line-breaks/) - Replaces embedded line breaks in selected CSV columns locally in the browser while preserving record separators and saving a separate copy.
 
 ## Developer and Security
 
